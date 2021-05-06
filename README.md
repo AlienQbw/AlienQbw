@@ -1,16 +1,23 @@
-### Hi there 👋
+##  Hi there 👋
 
-<!--
-**AlienQbw/AlienQbw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am self-learning frontend developer, through research & creation. I love writing websites, and exploring new technologies. 
 
-Here are some ideas to get you started:
+## Technologies I work with: 👨‍💻
+JavaScript (ES6+), PHP, React, HTML5, CSS3, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## My Portfolio
+<table style="border: solid #c6cbd1 1px">
+  <tr style="background-color: #f6f8fa">
+    <td><img src="http://bwladyka.com/img/favicon.png" width="150px" height="150px" style="background-color: #f6f8fa";></td>
+    <td><h3><a href="bwladyka.com" style="color: #e04f5f;">bwladyka.com</a></h3><p>Here, you can learn more about me and my projects, so feel free to drop by.</p></td>
+  </tr>
+
+ </table>
+
+
+
+### Contact me 💬
+* [Linkedin](https://www.linkedin.com/in/bartosz-w%C5%82adyka-6a6a39204/)
+* [E-mail](http://bwladyka.com/contact.php)
+<!--* [Twitter]() -->

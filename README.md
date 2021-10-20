@@ -10,7 +10,7 @@ JavaScript (ES6+), PHP, React, HTML5, CSS3, Git
 <table style="border: solid #c6cbd1 1px">
   <tr style="background-color: #f6f8fa">
     <td><img src="http://bwladyka.com/img/favicon.png" width="150px" height="150px" style="background-color: #f6f8fa";></td>
-    <td><h3><a href="bwladyka.com" style="color: #e04f5f;">bwladyka.com</a></h3><p>Here, you can learn more about me and my projects, so feel free to drop by.</p></td>
+    <td><h3><a href="http://bwladyka.com/" style="color: #e04f5f;">bwladyka.com</a></h3><p>Here, you can learn more about me and my projects, so feel free to drop by.</p></td>
   </tr>
 
  </table>

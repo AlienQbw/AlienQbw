@@ -3,7 +3,7 @@
 I am self-learning frontend developer, through research & creation. I love writing websites, and exploring new technologies. 
 
 ## Technologies I work with: 👨‍💻
-JavaScript (ES6+), PHP, React, HTML5, CSS3, Git
+JavaScript (ES6+), React, HTML5, CSS3, PHP, Git
 
 
 ## My Portfolio

@@ -1,6 +1,6 @@
 ##  Hi there 👋
 
-I am self-learning full-stack developer, through research & creation. I love writing websites, and exploring new technologies. 
+I am self taught full-stack developer, through research & creation. I love writing websites, and exploring new technologies. 
 
 ## Technologies I work with: 👨‍💻
 JavaScript (ES6+), React, HTML5, CSS3, PHP, Git, MySQL

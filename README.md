@@ -3,7 +3,7 @@
 I am self taught full-stack developer, through research & creation. I love writing websites, and exploring new technologies. 
 
 ## Technologies I work with: 👨‍💻
-JavaScript (ES6+), React, HTML5, CSS3, PHP, Git, MySQL
+PHP, Git, MySQL, JavaScript (ES6+), React, HTML5, CSS3
 
 
 ## My Portfolio
